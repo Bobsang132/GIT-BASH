@@ -35,7 +35,7 @@
 에러가 뜨면 git pull 을 하여서 둘의 상태를 같게 한 다음 다시 push를 해준다
 
 how to use git bash?
- 
+ 수정되었습니다.
 
 
 
