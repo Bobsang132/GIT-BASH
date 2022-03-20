@@ -1,0 +1,41 @@
+1) 올리고자 하는 폴더에서 마우스 우클릭 후 Git Bash Here 실행
+
+2) git init
+
+-현재 폴더를 로컬 저장소로 지정
+-해당 폴더에 .git폴더가 생성
+
+3)git status
+
+- 로컬 저장소의 현재 상태를 확인
+
+4)git add .
+
+-git add "파일명"
+-업로드
+
+5)git commit -m "메세지"
+
+-업로드할 파일 설명
+
+6)git remote add origin (Git Repository 주소)
+
+-Repository에 연결
+
+7)git remote -v
+
+-Repository 연결확인
+
+8)git push
+
+  or 
+
+  git push origin master
+
+에러가 뜨면 git pull 을 하여서 둘의 상태를 같게 한 다음 다시 push를 해준다
+
+how to use git bash?
+ 
+
+
+
